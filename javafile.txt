@@ -17,3 +17,6 @@ df
 fsd
 ds
 d
+main
+method
+money
