@@ -5,3 +5,7 @@ AUTOMATIONTESTING
 javafullstack
 pythonfullstack
 SQl
+akhil
+charan
+pritham
+lavan
