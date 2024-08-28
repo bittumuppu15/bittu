@@ -1,0 +1,7 @@
+commands:
+1.bittu@10.0.5.100
+2.sudo -i
+3.kpg | grep vendors
+4.ke vendors.-----
+5.cd /home/river/service/logs
+6.tail -f or grep instanceID *vendor.logs
