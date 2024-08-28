@@ -20,3 +20,5 @@ d
 main
 method
 money
+
+abcdefghijklmnopqrstuvwxyz
